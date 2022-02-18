@@ -2,3 +2,6 @@
 target/
 .bsp/
 
+# IntelliJ IDEA
+.idea/
+
